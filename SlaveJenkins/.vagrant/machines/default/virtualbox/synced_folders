@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant_data":{"guestpath":"/vagrant_data","hostpath":"C:/ProjetCD/SlaveJenkins/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/ProjetCD/SlaveJenkins","disabled":false,"__vagrantfile":true}}}
