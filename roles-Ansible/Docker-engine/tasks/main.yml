@@ -1,0 +1,14 @@
+---
+# tasks file for Docker-engine
+- name: installation docker
+  apt:
+    name: docker
+    state: present
+- name: installation docker.io
+  apt:
+     name: docker.io
+     state: present
+- name: copie du Dockerfile
+  template:
+      src: /vagrant_data/Dockerfile
+      dest: ~/Dockerfile
