@@ -1,2 +1,2 @@
 # Projet-CD
-Projet CD Morad et Xavier-Pierre
+Projet CD Morad, Xavier-Pierre et Sylvain
