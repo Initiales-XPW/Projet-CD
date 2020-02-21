@@ -12,7 +12,7 @@ Lancer les vagrantfiles du master, du slave et du prod
 Ne pas oublier de changer l'adresse IP pour pouvoir faire fonctionner le code
 Se connecter à Jenkins via localhost:8080
 Configurer dans Jenkins la connexion SSH master/slave et les credentials
-Les machines ont été provisionnées à l'aide des rôles Ansible que vous trouverez dans le home directory de Jenkins de la machine Vagrant master
+Les machines ont été provisionnées à l'aide des rôles Ansible que vous trouverez dans le dossier roles-Ansible
 
 Remarques :
 Différents problèmes techniques ont été rencontrés :
